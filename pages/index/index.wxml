@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="company-name">深圳市安跃企业服务有限公司</view>
+  <view class="company-detail">【请长按二维码，保存图片后再扫描】</view>
+  <image show-menu-by-longpress="{{true}}" src="../../img/annyue_QR_code.png" mode="aspectFit" style="width: 300px; height: 300px; margin-top: 10px;"></image>
+  <view class="company-name">联系方式</view>
+  <image show-menu-by-longpress="{{true}}" src="../../img/wechat_scan.jpg" mode="aspectFit" style="width: 300px; height: 300px; margin-top: 30px;"></image>
+</view>
